@@ -1,0 +1,17 @@
+Dupliquez les lignes ci-dessous et déplacer les nouvelles lignes pour faire un beau losange
+
+                      |
+                     |||
+                    | | |
+                   |  |  |
+                  |   |   |
+                 |    |    |
+                |     |     |
+               |      |      |
+              |       |       |
+             |        |        |
+            |         |         |
+           |          |          |
+          |           |           |
+         |-------------------------|
+
