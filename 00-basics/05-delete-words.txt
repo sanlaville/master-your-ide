@@ -1,11 +1,12 @@
-Supprimez les mots en MAJUSCULE :
+1) Supprimez les mots en MAJUSCULE :
 
 On peut FOO très BAR bien FUZZ supprimer un HELLO mot WORD en supprimant ses CLOUD caractères un par DIX un.
 C'est CTRL toutSUPPR de même plus DELETEintéressant de le suppREFACTORINGrimer d'un coup !
 
-Supprimez le mot "Erreur" :
+------------------------------------------------------------------------------------------------------------------------
+2) Supprimez le mot "Erreur" :
 monBeauNomErreurDeFonction
 
-=========================   Tips   =========================
-1. supprimer une partie d'un mot qui est délimité par des majuscules
+*******   Tips   *******
+- Supprimer une partie d'un mot qui est délimité par des majuscules
     [IntelliJ] faites des recherches sur internet autour de Smart Keys et CamelHumps
