@@ -8,4 +8,4 @@ monBeauNomErreurDeFonction
 
 =========================   Tips   =========================
 1. supprimer une partie d'un mot qui est délimité par des majuscules
-    [IntelliJ] faite des recherches sur internet autour de Smart Keys et CamelHumps
+    [IntelliJ] faites des recherches sur internet autour de Smart Keys et CamelHumps
