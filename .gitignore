@@ -1,9 +1,11 @@
 # Eclipse files/directories
 .project
-*.iml
+.classpath
+.settings
 
 # IntelliJ files/directories
 .idea/
+*.iml
 
 # Maven files/directories
 target/
