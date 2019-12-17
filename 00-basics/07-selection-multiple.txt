@@ -30,7 +30,7 @@ Not only working software,
 
 ------------------------------------------------------------------------------------------------------------------------
 
-2) Selectionnez tous les mots "Not only" et "but" et passez-les en MAJUSCULES
+3) Selectionnez tous les mots "Not only" et "but" et passez-les en MAJUSCULES
 
 Manifesto for Software Craftsmanship
 
@@ -58,3 +58,17 @@ http://manifesto.softwarecraftsmanship.org/
 1. Mettre un mot en minuscule/MAJUSCULE
     [IntelliJ] faites une recherche sur Toogle case
     [Eclipse] faites une recherche sur UPPERCASE and lowercase
+
+------------------------------------------------------------------------------------------------------------------------
+
+4) Alignez un bloc de texte, les flèches, en utilisant la fonction de démultiplication du curseur
+   (double appui sur ctrl, en maintenant appuyé ctrl la deuxième fois)
+
+mystr match {
+  case "truc"     => 1
+  case "machin"    => 2
+  case "gloups"     => 3
+  case "blablabla"     => 4
+  case "gloups"     => 5
+}
+
